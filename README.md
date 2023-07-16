@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm omkar</h1>
 <h3 align="center">A Tech enthusiast 💻</h3>
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/imgres?imgurl=https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif&tbnid=FK1rBj3Mpv7lmM&vet=1&imgrefurl=https://medium.datadriveninvestor.com/the-most-hilarious-code-comments-ever-bae3cb1030b5&docid=eYt4yvd3ybM-hM&w=800&h=600&itg=1&hl=en-US&source=sh/x/im/4)"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkark12&label=Profile%20views&color=0e75b6&style=flat" alt="omkark12" /> </p>
 

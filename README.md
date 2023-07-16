@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm omkar</h1>
 <h3 align="center">A Tech enthusiast 💻</h3>
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*C-cPP9D2MIyeexAT.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkark12&label=Profile%20views&color=0e75b6&style=flat" alt="omkark12" /> </p>

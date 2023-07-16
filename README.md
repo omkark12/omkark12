@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRBxe0ACtNAIcFaRfMSw5zbhSYFkZsflNZM9yfG216d7R-BR8kFpxJnQSfCe4y2mIAQ&usqp=CAU))]
 <h1 align="center">Hi 👋, I'm omkar</h1>
 <h3 align="center">A Tech enthusiast 💻</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*C-cPP9D2MIyeexAT.gif">
